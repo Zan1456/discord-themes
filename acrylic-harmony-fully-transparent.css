@@ -734,3 +734,9 @@ background: rgba(0, 0, 0, var(--var-opacity-inner-messages))!important;
 .voiceChannelsButton__46c37{border: 0;}
 
 .container_ca50b9:before{display: none;}
+
+
+/* Fully fixes */
+.accountProfileCard__22589 {
+    background-color: #0682ff00;
+}
