@@ -24,7 +24,8 @@ Transparency on the main titlebar and server sidebar only.
 
 <div align="center">
 
-![image](https://github.com/s-k-y-l-i/discord-themes/assets/7442913/d9044f6c-f952-40fb-8a6b-6d2168170a78)
+![image](https://raw.githubusercontent.com/Zan1456/discord-themes/main/images/prev1.png)
+![image](https://raw.githubusercontent.com/Zan1456/discord-themes/main/images/prev2.png)
 
 </div>
 <br><br><br>
