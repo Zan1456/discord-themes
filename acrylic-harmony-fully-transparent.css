@@ -263,8 +263,9 @@ nav.container__590e2 {
     border-top-left-radius: 8px;
 }
 
-.members__9f47b {
-    background: transparent;}
+.members__9f47b, .members__9f47b > div {
+    background: transparent !important;
+}
 
 
 
