@@ -53,6 +53,10 @@ body::before {
     filter: saturate(var(--var-color-saturation)) contrast(var(--var-contrast));
 }
 
+.layer_f7d46a, .standardSidebarView__12528 {
+    background-color: #0f101200 !important;
+}
+
 .sidebar_ded4b5 {
     background: transparent;
 
