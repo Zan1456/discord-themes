@@ -13,6 +13,8 @@
     --message-color: #21232659 !important;
     --typing-color:  #16171a59 !important;
     --chat-color: transparent !important;
+    --main-color: transparent !important;
+    --status-picker-color: #22222282 !important;
 
     /* 
     You can try: 
@@ -742,4 +744,8 @@ background: rgba(0, 0, 0, var(--var-opacity-inner-messages))!important;
 
 .increasedActivityMainCard__916ed {
     background-color: #21232659 !important;
+}
+
+.sidebar_e031be, .sidebar_e031be .container__7e23c {
+    
 }
