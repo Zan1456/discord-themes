@@ -16,6 +16,7 @@
     --main-color: transparent !important;
     --main-alt: transparent !important;
     --status-picker-color: #22222282 !important;
+    --attachment-color: #1517199f !important;
 
     /* 
     You can try: 
@@ -749,8 +750,4 @@ background: rgba(0, 0, 0, var(--var-opacity-inner-messages))!important;
 
 .increasedActivityMainCard__916ed {
     background-color: #21232659 !important;
-}
-
-.sidebar_e031be, .sidebar_e031be .container__7e23c {
-    
 }
